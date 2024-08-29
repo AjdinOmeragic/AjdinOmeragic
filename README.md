@@ -23,11 +23,24 @@
 
 <h2 align="center">🛠 Languages and Frameworks</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,solidity,cs,c,cpp,python,react,javascript,docker,github,git,vscode,figma,tailwind,dotnet,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,javascript,tailwind,figma" />
+    <h3>Frontend</h3>
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,php,java,solidity" />
+    <h3>Backend</h3>
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,docker,mysql,postgresql,c,c++,github,git,vscode" />
+    <h3>Frameworks & Tools</h3>
 </div>
 
 <hr/>
+
 
 <h2 align="center">📈 GitHub Stats</h2>
 <br/>
