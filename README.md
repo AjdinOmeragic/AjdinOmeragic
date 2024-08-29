@@ -32,7 +32,7 @@
 
 <div align="center">
     <h3>Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,react,javascript,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vite,javascript,tailwind,figma" />
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@
 
 <div align="center">
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=docker,mysql,postgresql,github,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=docker,mysql,postgresql,github,git,vscode,androidstudio,arduino,bash,firebase,npm,postman,ubuntu" />
 </div>
 
 <hr/>
