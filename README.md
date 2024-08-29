@@ -24,7 +24,7 @@
 <h2 align="center">🛠 Languages and Frameworks</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,solidity,csharp,c,cpp,python,react,javascript,docker,github,git,sql,vscode,figma,tailwind,aspnet,dotnet,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=html,css,solidity,cs,c,cpp,python,react,javascript,docker,github,git,vscode,figma,tailwind,dotnet,mysql,postgresql" />
 </div>
 
 <hr/>
