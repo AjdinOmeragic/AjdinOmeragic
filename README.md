@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AjdinOmeragic.AjdinOmeragic" width="150" height="35" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AjdinOmeragic.AjdinOmeragic" width="112.5" height="26.25" />
+
 
 
 <h1 align="center">
