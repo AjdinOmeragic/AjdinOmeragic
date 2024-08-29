@@ -37,6 +37,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjdinOmeragic&theme=radical" alt="Ajdin's GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AjdinOmeragic&color=brightgreen" alt="Ajdin's Profile Views" />
+</div>
+
 <hr/>
 
 <h2 align="center">🌱 What I'm Currently Learning</h2>
