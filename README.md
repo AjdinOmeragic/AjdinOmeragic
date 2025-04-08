@@ -58,20 +58,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AjdinOmeragic&color=brightgreen" alt="Ajdin's Profile Views" width="150" height="35" />
 </div>
-
-
-<hr/>
-
-<h2 align="center">🌱 What I'm Currently Working on 🌱</h2>
-<br/>
-<p align="center">
-  I'm Curentlly learning more about .NET, Docker and PostgreSQL
-  As well as I am Curently Working on learning more by exercising on LeetCode
-</p>
-
-<hr/>
-
-<h2 align="center">📫 Let's Connect 📫</h2>
-<p align="center">
-  I'm always open to new opportunities and collaborations. Feel free to reach out through email or connect with me on LinkedIn!
-</p>
