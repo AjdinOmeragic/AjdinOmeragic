@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There;+I'm+Ajdin+Omeragic!;+Nice+To+Meet+You;" />
 </h1>
 
-<h3 align="center">🎓 Third-Year Student at International Burch University, 🇧🇦 Bosnia and Herzegovina</h3>
+<h3 align="center">🎓 Fourth-Year Student at International Burch University, 🇧🇦 Bosnia and Herzegovina</h3>
 
 <p align="center">
   I'm passionate about software development and continuously learning new technologies. I have experience working with various programming languages and frameworks.
@@ -32,12 +32,12 @@
 
 <div align="center">
     <h3>Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,react,vite,javascript,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,figma" />
 </div>
 
 <div align="center">
     <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,dotnet,kotlin,php,java,solidity" />
+    <img src="https://skillicons.dev/icons?i=python,dotnet,kotlin,php,java" />
 </div>
 
 <div align="center">
