@@ -58,3 +58,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AjdinOmeragic&color=brightgreen" alt="Ajdin's Profile Views" width="150" height="35" />
 </div>
+
+<div>
+<img src="/img/RonSwansonYeetingComputer.gif" width="150" height="35" />
+</div>
