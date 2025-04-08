@@ -42,7 +42,7 @@
 
 <div align="center">
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=docker,mysql,postgresql,github,git,vscode,androidstudio,arduino,bash,firebase,npm,postman,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=docker,mysql,androidstudio,arduino,ubuntu" />
 </div>
 
 <hr/>
